@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Template for the log"
+date:   2019-11-14 15:04:00 +09
+categories: Javascript Python
 ---
-## 測試文章範例
+
 This is the template for writing new technical article with markdown. 
 
 ```python
@@ -17,7 +17,11 @@ def get_greeting():
 ```
 
 這邊可以測試一下繁體中文，使用Jekyll framework撰寫blog真的很方便。
+
+
 測試一下連結 [Google url][google]
+
+
 測試一下圖片 ![螢幕快照 2019-11-05 下午3.55.41](/assets/螢幕快照%202019-11-05%20下午3.55.41_p3az3y4l7.png)
 
 
