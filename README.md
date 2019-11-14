@@ -1,8 +1,6 @@
-# plainwhite
+# cftang blog
 
-Simplistic jekyll portfolio-style theme for writers.
-
-**Demo**: [thelehhman.com](https://thelehhman.com)
+**link**: [https://cftang0827.github.io/](https://cftang0827.github.io/)
 
 ![plainwhite theme preview](/screenshot.png)
 
