@@ -22,7 +22,7 @@ def get_greeting():
 測試一下連結 [Google url][google]
 
 
-測試一下圖片 ![螢幕快照 2019-11-05 下午3.55.41](/assets/螢幕快照%202019-11-05%20下午3.55.41_p3az3y4l7.png)
+測試一下圖片 ![螢幕快照 2019-11-05 下午3.55.41](https://i.imgur.com/RKcfD5V.png)
 
 
 
