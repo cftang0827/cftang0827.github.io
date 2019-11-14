@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Template for the log"
+title:  "Template for the blog"
 date:   2019-11-14 15:04:00 +09
 categories: Javascript Python
 ---
