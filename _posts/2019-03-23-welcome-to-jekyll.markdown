@@ -4,25 +4,23 @@ title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+## 測試文章範例
+This is the template for writing new technical article with markdown. 
 
-```javascript
-const Razorpay = require('razorpay');
+```python
+# Just a test script for markdown
+for i in range(5):
+    get_greeting()
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
+def get_greeting():
+    return "Hello"
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+這邊可以測試一下繁體中文，使用Jekyll framework撰寫blog真的很方便。
+測試一下連結 [Google url][google]
+測試一下圖片 ![螢幕快照 2019-11-05 下午3.55.41](/assets/螢幕快照%202019-11-05%20下午3.55.41_p3az3y4l7.png)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+[google]: https://www.google.com
+
