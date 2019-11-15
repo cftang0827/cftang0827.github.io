@@ -1,4 +1,4 @@
-title: It's just a tech blog!!
+title: Tech blog from cftang0827
 author: GitHub User
 email: cftang0827@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -14,14 +14,15 @@ plainwhite:
   tagline: Python Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  disqus_shortname: https-cftang0827-github-io
+  disqus_shortname: httpscftang0827githubio
   # generate social links in footer
   social_links:
     github:  cftang0827
     linkedIn: in/chih-fan-tang-065b74aa
+    facebook: zhifan1
     rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
