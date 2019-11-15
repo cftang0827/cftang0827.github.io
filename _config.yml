@@ -14,7 +14,7 @@ plainwhite:
   tagline: Python Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-
+  disqus_shortname: https-cftang0827-github-io
   # generate social links in footer
   social_links:
     github:  cftang0827
